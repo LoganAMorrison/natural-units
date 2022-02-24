@@ -1,2 +1,2 @@
-# natural_units
+# natural-units
 CLI tool for converting units to natural units
